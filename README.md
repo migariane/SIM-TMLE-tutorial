@@ -1,8 +1,8 @@
 ## Targeted Maximum Likelihood Estimation for a Binary treatment: A tutorial. Statistics in Medicine, 2017
 
-### This repository made available to the scientific community the data and code used in the manuscript. 
+### This repository made available to the scientific community the data and the code presented in the manuscript. 
 
-### Reproducible research in Epidemiology and biostatistics is possible.
+### Reproducible research in clinical sciences, epidemiology and biostatistics is possible.
 
 ### Miguel Angel Luque Fernandez, Michael Schomaker, Bernard Rachet, Mireille Schnitzer
 
