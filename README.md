@@ -2,8 +2,6 @@
 
 ### This repository made available to the scientific community the data and the code presented in the manuscript. 
 
-### Reproducible research in clinical sciences, epidemiology and biostatistics is possible.
-
 ### Miguel Angel Luque Fernandez, Michael Schomaker, Bernard Rachet, Mireille Schnitzer
 
 ### ABSTRACT
