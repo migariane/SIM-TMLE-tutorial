@@ -1,4 +1,4 @@
-## Targeted Maximum Likelihood Estimation: A tutorial. Statistics in Medicine, 2018
+## Targeted Maximum Likelihood Estimation for a Binary Treatment: A tutorial. Statistics in Medicine, 2018
 
 ### This repository made available to the scientific community the data and the code presented in the manuscript. 
 

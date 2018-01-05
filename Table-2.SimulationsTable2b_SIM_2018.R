@@ -1,6 +1,6 @@
 ######################################################################################
 # Miguel Angel Luque Fernandez, Micheal Schomaker, Bernard Rachet, Mireille Schnitzer
-# Targeted Maximum Likelihood Estimation: A tutorial
+# Targeted Maximum Likelihood Estimation for a Binary Treatment: A tutorial
 # Table-2: R-syntax for simulations
 ######################################################################################
 
