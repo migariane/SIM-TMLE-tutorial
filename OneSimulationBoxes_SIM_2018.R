@@ -1,8 +1,8 @@
-######################################################################################
+#######################################################################################
 # Miguel Angel Luque Fernandez, Michael Schomaker, Bernard Rachet, Mireille Schnitzer
 # Targeted Maximum Likelihood Estimation for a Binary Treatment: A tutorial
 # R-syntax included in the boxes of the manuscript
-######################################################################################
+#######################################################################################
 
 # Function to generate data (DGP)
 generateData<- function(n){

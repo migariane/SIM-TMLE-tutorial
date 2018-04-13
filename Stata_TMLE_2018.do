@@ -1,8 +1,8 @@
-//#####################################################################################
+//#######################################################################################
 // Miguel Angel Luque Fernandez, Micheal Schomaker, Bernard Rachet, Mireille Schnitzer
 // Targeted Maximum Likelihood Estimation for a Binary Treatment: A tutorial
 // Stata simple TMLE implementation 
-//#####################################################################################
+//#######################################################################################
 
 cd "your path to the data"
 import delimited ObsData.csv, clear

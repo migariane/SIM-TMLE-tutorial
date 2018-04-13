@@ -1,8 +1,8 @@
-######################################################################################
+########################################################################################
 # Miguel Angel Luque Fernandez, Micheal Schomaker, Bernard Rachet, Mireille Schnitzer
 # Targeted Maximum Likelihood Estimation for a Binary Treatment: A tutorial
 # Table-2: R-syntax for simulations
-######################################################################################
+########################################################################################
 
 # Super Learner libraries
 SL.library <- c("SL.glm","SL.step","SL.step.interaction","SL.glm.interaction",
