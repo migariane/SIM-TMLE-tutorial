@@ -1,6 +1,8 @@
 ## Targeted Maximum Likelihood Estimation for a Binary Treatment: A tutorial. Statistics in Medicine, 2018
 
-### This repository made available to the scientific community the data and the code presented in the manuscript. 
+### This repository made available to the scientific community the data and the code presented in the Statistics and Medicine (SIM) manuscript:
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/sim.7628
 
 ### CITE:
 
