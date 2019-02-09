@@ -2,6 +2,13 @@
 
 ### This repository made available to the scientific community the data and the code presented in the manuscript. 
 
+### CITE:
+
+
+[![DOI](https://zenodo.org/badge/106102535.svg)](https://zenodo.org/badge/latestdoi/106102535)
+
+
+
 ### Miguel Angel Luque Fernandez, Michael Schomaker, Bernard Rachet, Mireille Schnitzer
 
 ### ABSTRACT
