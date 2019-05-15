@@ -2,14 +2,13 @@
 
 ### This repository made available to the scientific community the data and the code presented in the Statistics and Medicine (SIM) manuscript:
 
-https://onlinelibrary.wiley.com/doi/full/10.1002/sim.7628
+Luque‐Fernandez, MA, Schomaker, M, Rachet, B, Schnitzer, ME. Targeted maximum likelihood estimation for a binary treatment: A tutorial. Statistics in Medicine. 2018; 37: 2530– 2546. https://doi.org/10.1002/sim.7628   
 
-### CITE:
+[Link to the Statistics in Medicine Open Access Article:](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.7628)    
 
+### CITE this repository:
 
 [![DOI](https://zenodo.org/badge/106102535.svg)](https://zenodo.org/badge/latestdoi/106102535)
-
-
 
 ### Miguel Angel Luque Fernandez, Michael Schomaker, Bernard Rachet, Mireille Schnitzer
 
